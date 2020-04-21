@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9F9FC730-B51D-4CEA-8ED0-4385AC7259EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance/ViewModel/MainVM.cs">
+    <Files>
+      <File FileName="Finance/View/MainPage.xaml.cs" Line="13" Column="93" />
+      <File FileName="Finance/View/MainPage.xaml" Line="12" Column="37" />
+      <File FileName="Finance/App.xaml.cs" Line="14" Column="47" />
+      <File FileName="Finance/ViewModel/MainVM.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True">
+            <Node name="Finance" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="Behaviors" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="PostPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True">
+                <Node name="MainVM.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69889B24-E0C9-4C17-88BC-CC3EC90C9359" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
